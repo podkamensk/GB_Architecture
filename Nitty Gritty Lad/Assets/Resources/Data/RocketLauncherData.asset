@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37dbccb70f147ae4ab484c6354d9320f, type: 3}
+  m_Name: RocketLauncherData
+  m_EditorClassIdentifier: 
+  _ammoType: 3
+  _cooldown: 10
+  _burstSeries: 1
+  _burstCount: 12
+  _burstRate: 0.5
