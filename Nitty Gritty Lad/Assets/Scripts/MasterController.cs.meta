@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8a727449c4416349b7e58b9848524c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _unitData: {fileID: 11400000, guid: 1a4040126309f654197d4858f021a461, type: 2}
+  - _weaponData: {fileID: 11400000, guid: a8076a7408dc8f04494c9b3c6479a148, type: 2}
+  - _ammoData: {fileID: 11400000, guid: 68e5295c62b4f584cbe510649622f9b2, type: 2}
+  - _allSettings: {fileID: 11400000, guid: edf9d49482104c0409db97735e611c87, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
